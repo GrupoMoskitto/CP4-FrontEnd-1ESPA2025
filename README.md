@@ -27,3 +27,7 @@ Desenvolvemos um site web responsivo para o e-commerce EcoTrend, pensado para as
 - CSS
 - JavaScript
 - GitHub Pages <i> (hosteamento do site) </i>
+
+<hr>
+
+### [Link para a visualizar página](https://grupomoskitto.github.io/CP4-FrontEnd-1ESPA2025)
